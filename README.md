@@ -10,7 +10,7 @@
 
   - 🌱 Sou formado em Jogos Digitais pela FATEC - Ourinhos.
     
-  - 🔭 Atualmente estou procurando uma primeira oportunidade no mundo da programação.
+  - 🔭 Atualmente estou procurando minha primeira oportunidade no mundo da programação.
 
   - ❄ No momento deste documento estudo C#, principalmente ASP.NET (.NET Framework) e SQL Server. 
 </p>
