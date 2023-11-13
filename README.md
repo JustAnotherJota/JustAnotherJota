@@ -33,7 +33,7 @@
 - [Digital World](https://github.com/jotabtw/Digital_World)  C# - Aplicando POO
 - [Par ou ímpar](https://github.com/jotabtw/par_ou_impar) C# - Aplicando logíca
 - [Eu tranquei?](https://github.com/jotabtw/EuTranquei) HTML/CSS/JavaScript - Salvando cache local
-- [Trigun na Crunchyroll](https://github.com/jotabtw/Trigun_na_Crunchyroll) HTML/CSS - Design para website de streamin
+- [Trigun na Crunchyroll](https://github.com/jotabtw/Trigun_na_Crunchyroll) HTML/CSS - Design para website de streaming
 
 <!-- GIF -->
 <br>
