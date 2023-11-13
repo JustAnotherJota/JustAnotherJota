@@ -6,7 +6,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, Eu sou João Pedro, mas comumente me chama de Jota! Interessado atualmente em ASP.NET (.NET Framework) 
+  Olá 👋, Eu sou João Pedro, mas comumente me chamam de Jota! Interessado atualmente em ASP.NET (.NET Framework) 
 
   - 🌱 Sou formado em Jogos Digitais pela FATEC - Ourinhos.
     
