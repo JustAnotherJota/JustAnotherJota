@@ -24,8 +24,9 @@
   - 🌙 Eu gosto de refletir sobre a vida, o que nos move e como pensamos como ser humano, mas ao mesmo tempo, há momentos que gosto de não pensar em nada. Ler livros e mangás, assistir anime, escutar o Pedro Loss (Ciência todo dia) e o Pedro Calabrez (NeuroVox) fazem parte do meu dia, por falar em parte do meu dia, no final de 2022 conheci uma das melhores coisas, a academia, um momento pra escutar música, estar comigo mesmo e é simplesmente maravilhoso :D 
 </details>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/christian-oliveira-925532257/](https://www.linkedin.com/in/jo%C3%A3o-pedro-bernardino-75931019a/)https://www.linkedin.com/in/jo%C3%A3o-pedro-bernardino-75931019a/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/toquinhaman/](https://www.instagram.com/btwjota/))
+<!-- Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-bernardino-75931019a/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/btwjota/)
 
 ![Jotabtw GitHub stats](https://github-readme-stats.vercel.app/api?username=jotabtw&theme=tokyonight&show_icons=true)
 
