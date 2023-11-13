@@ -30,7 +30,7 @@
 ![Jotabtw GitHub stats](https://github-readme-stats.vercel.app/api?username=jotabtw&theme=tokyonight&show_icons=true)
 
 ## Projetos:
-- [appMusic](https://github.com/jotabtw/appMusic/) ASP.NET(.NET Framework) - Criação de uma API aplicando conceitos de SQL Server e .Net para o desenvolvimento de um CRUD
+- [appMusic](https://github.com/jotabtw/appMusic/) ASP.NET(.NET Framework) - Criação de uma Web API (CRUD) aplicando conceitos de SQL Server e ASP.NET 
 - [Digital World](https://github.com/jotabtw/Digital_World)  C# - Aplicando POO
 - [Par ou ímpar](https://github.com/jotabtw/par_ou_impar) C# - Aplicando logíca
 - [Eu tranquei?](https://github.com/jotabtw/EuTranquei) HTML/CSS/JavaScript - Salvando cache local
