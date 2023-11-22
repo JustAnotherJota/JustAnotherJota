@@ -40,7 +40,7 @@
 <!-- GIF -->
 <br>
 <p align="left">
-  <img align="center" src="https://github.com/jotabtw/jotabtw/blob/main/Assets/e7d2bd61228185.5a67a07360e75.gif" alt="Imagem"> | 
+  <img align="center" src="https://github.com/jotabtw/jotabtw/blob/main/Assets/e7d2bd61228185.5a67a07360e75.gif" alt="Imagem">  
 </p>
 
 
