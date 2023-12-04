@@ -17,7 +17,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
   
   - 💬 Olá! Contarei um pouco sobre mim. Comecei minha jornada me aprofundando em desenhos técnicos e eventualmente acabei indo para arte digital no qual passei por um processo de aprendizagem gratificante e trabalhando com comissões. Enquanto eu aprendia mais sobre técnicas de desenho, modelagem e animação, cursava Jogos Digitais na instituição da FATEC, durante esse período, encontrei espaço na área de tecnologia com a empresa Webby Internet. Comecei a me interessar pela parte de rede e segurança no trabalho, qual também me despertou o interesse em programação e desenvolvimento, área qual atualmente foco meus estudos.
 
