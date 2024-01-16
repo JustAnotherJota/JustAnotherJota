@@ -59,7 +59,8 @@
   <div style="flex-basis: 48%;">
     <h3>Frameworks</h3>
       <img align="center" alt="Angular" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png"> |
-      <img align="center" alt=".NetFramework" height="45" width="45" src="https://www.instalki.pl/wp-content/uploads/program/icons/unnamed-6.png">  
+      <img align="center" alt=".NetFramework" height="45" width="45" src="https://www.instalki.pl/wp-content/uploads/program/icons/unnamed-6.png"> |
+      <img align="center" alt=".NetCore" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"> 
     </div>
     
   <div style="flex-basis: 48%;">
