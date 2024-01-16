@@ -12,7 +12,7 @@
     
   - 🔭 Atualmente estou procurando minha primeira oportunidade no mundo da programação.
 
-  - ❄ No momento deste documento estudo C#, principalmente ASP.NET (.NET Framework), Angular e SQL Server.
+  - ❄ No momento deste documento estudo C#, principalmente ASP.NET (.NET Framework e .Net Core), Angular e SQL Server.
 </p>
 
 <!-- Dropdown -->
