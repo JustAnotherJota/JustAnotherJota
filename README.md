@@ -31,12 +31,15 @@
 ![Jotabtw GitHub stats](https://github-readme-stats.vercel.app/api?username=jotabtw&theme=tokyonight&show_icons=true)
 
 ## Projetos:
-- [appMusic](https://github.com/jotabtw/appMusic/) ASP.NET(.NET Framework) - Criação de uma Web API (CRUD) aplicando conceitos de SQL Server e ASP.NET
+- [RakingBooks](https://github.com/jotabtw/RatingBooks) Asp.Net(.Net 6.0) - Sistema de Livros para avaliar e agendar um compromisso para continuar a leitura
+- [appMusic](https://github.com/jotabtw/appMusic/) Asp.Net(.Net Framework 4.7.2) - Criação de uma Web API (CRUD) aplicando conceitos de SQL Server e ASP.NET
 - [Requisição de Médicos e Clientes](https://github.com/jotabtw/Sistema_Cliente_Medico_Angular/tree/main) Angular - Criação de uma página web requisitando as funções de uma API
-- [Digital World](https://github.com/jotabtw/Digital_World)  C# - Aplicando POO
+- [Digital World](https://github.com/jotabtw/Digital_World) C# - Aplicando POO
 - [Par ou ímpar](https://github.com/jotabtw/par_ou_impar) C# - Aplicando logíca
 - [Eu tranquei?](https://github.com/jotabtw/EuTranquei) HTML/CSS/JavaScript - Salvando cache local
-- [Trigun na Crunchyroll](https://github.com/jotabtw/Trigun_na_Crunchyroll) HTML/CSS - Design para website de streaming
+
+
+
 
 <!-- GIF -->
 <br>
