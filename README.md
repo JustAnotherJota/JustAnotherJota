@@ -30,8 +30,8 @@
 ![Jotabtw GitHub stats](https://github-readme-stats.vercel.app/api?username=justanotherjota&theme=tokyonight&show_icons=true)
 
 ## Projetos:
-- [RakingBooks](https://github.com/jotabtw/RatingBooks) Asp.Net(.Net 6.0) - Sistema de Livros para avaliar e agendar um compromisso para continuar a leitura
-- [appMusic](https://github.com/jotabtw/appMusic/) Asp.Net(.Net Framework 4.7.2) - Criação de uma Web API (CRUD) aplicando conceitos de SQL Server e ASP.NET
+- [RakingBooks](https://github.com/jotabtw/RatingBooks) .Net 6.0 - Sistema de Livros para avaliar e agendar um compromisso para continuar a leitura
+- [appMusic](https://github.com/jotabtw/appMusic/) .Net Framework 4.7.2 - Criação de uma Web API (CRUD) aplicando conceitos de SQL Server e ASP.NET
 - [Requisição de Médicos e Clientes](https://github.com/jotabtw/Sistema_Cliente_Medico_Angular/tree/main) Angular - Criação de uma página web requisitando as funções de uma API
 - [Digital World](https://github.com/jotabtw/Digital_World) C# - Aplicando POO
 - [Par ou ímpar](https://github.com/jotabtw/par_ou_impar) C# - Aplicando logíca
