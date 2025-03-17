@@ -51,7 +51,7 @@
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
-      <img align="center" alt="C#" height="40" width="35" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> |
+      <img align="center" alt="C#" height="40" width="37" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png"> |
       <img align="center" alt="JS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> |
       <img align="center" alt="HTML" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |
       <img align="center" alt="CSS" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
